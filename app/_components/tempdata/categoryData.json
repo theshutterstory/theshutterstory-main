@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "categoryImg" : "/theshutterstory-logo.svg",
+        "mainCategory" :"Weddding"
+    },
+      {
+        "id": 2,
+        "categoryImg" : "/theshutterstory-logo.svg",
+        "mainCategory" :"Product"
+    },
+      {
+        "id": 3,
+        "categoryImg" : "/theshutterstory-logo.svg",
+        "mainCategory" :"Architectural"
+    },
+      {
+        "id": 4,
+        "categoryImg" : "/theshutterstory-logo.svg",
+        "mainCategory" :"Event"
+    },
+      {
+        "id": 5,
+        "categoryImg" : "/theshutterstory-logo.svg",
+        "mainCategory" :"Aerial"
+    },
+      {
+        "id": 5,
+        "categoryImg" : "/theshutterstory-logo.svg",
+        "mainCategory" :"Street"
+    }
+]

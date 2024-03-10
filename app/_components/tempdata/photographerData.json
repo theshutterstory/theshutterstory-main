@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "bgImg" : "/images/prod5.jpg",
+        "avatarImg" : "/images/dp1.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 2,
+         "bgImg" : "/images/wed10.jfif",
+        "avatarImg" : "/images/dp2.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Akash Mishra",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 3,
+        "bgImg" : "/images/wed11.jpg",
+        "avatarImg" : "/images/dp3.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Vishal Chauhan",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 4,
+        "bgImg" : "/images/wed12.jpg",
+         "avatarImg" : "/images/dp4.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Akhil Dixit",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 5,
+        "bgImg" : "/images/wed13.jpg",
+        "avatarImg" : "/images/dp5.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Saurav Kumar",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 6,
+     "bgImg" : "/images/wed1.jpg",
+       "avatarImg" : "/images/dp6.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Anurag Patil",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 7,
+        "bgImg" : "/images/wed2.jpg",
+       "avatarImg" : "/images/dp7.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Shaurya  Sharma",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 8,
+       "bgImg" : "/images/wed3.png",
+     "avatarImg" : "/images/dp8.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Rudra Pandey",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 9,
+        "bgImg" : "/images/wed4.jpg",
+       "avatarImg" : "/images/dp9.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Pratik  Trivedi",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 10,
+     "bgImg" : "/images/prod1.png",
+      "avatarImg" : "/images/dp10.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Dhiraj  Kumar",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 11,
+      "bgImg" : "/images/prod2.jpg",
+    "avatarImg" : "/images/dp11.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Anand Jain",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 12,
+        "bgImg" : "/images/prod3.jpg",
+     "avatarImg" : "/images/dp12.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Aniket Joshi",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 13,
+        "bgImg" : "/images/prod4.png",
+      "avatarImg" : "/images/dp13.jpg",
+        "category" :"cinematographer",
+        "photographerName" :"Chaitnya Pande",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    }
+]

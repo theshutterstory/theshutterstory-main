@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 2,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 3,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 4,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 5,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 6,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 7,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 8,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 9,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 10,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 11,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 13,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    },
+     {
+         "id": 14,
+        "bgImg" : "/cat1.png",
+        "avatarImg" : "dp.png",
+        "category" :"cinematographer",
+        "photographerName" :"Vedang Gupta",
+        "studioName" :"Blue Studio",
+        "location" :"Wakad, Pune"
+    }
+]
