@@ -2,9 +2,9 @@
 import React from "react";
 import PhotographerDetail from "../_components/PhotographerDetail";
 import PhotographerSuggestionList from "../_components/PhotographerSuggestionList";
+import Gallery from "../_components/Gallery";
 
 // import photographer from "../../../../app/_components/tempdata/photographerDetails.json";
-
 
 const Details = (photographerId) => {
   return (
@@ -16,6 +16,7 @@ const Details = (photographerId) => {
         <div className=" col-span-3">
           {/* {photographerId && <PhotographerDetail photographer={photographerId} />} */}
           <PhotographerDetail />
+          <Gallery />
         </div>
         {/* photographer Suggestion  */}
         <div>
