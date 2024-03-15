@@ -19,8 +19,12 @@ const Footer = () => {
           </div>
 
           <p className="mt-4 max-w-md text-center leading-relaxed text-gray-500 sm:text-left lg:mt-0">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt
-            consequuntur amet culpa cum itaque neque.
+            ShutterStory.in is a dynamic online hub designed exclusively for
+            photographers to exhibit their portfolios, share their creative
+            journey, and connect with prospective clients. Whether you're a
+            seasoned professional or an aspiring enthusiast, ShutterStory.in
+            offers a vibrant space to showcase your talent and expand your
+            professional network.
           </p>
         </div>
 
@@ -34,7 +38,7 @@ const Footer = () => {
                   className="text-gray-700 transition hover:text-gray-700/75"
                   href="#"
                 >
-                  Company History
+                  About Us
                 </a>
               </li>
 
@@ -44,7 +48,7 @@ const Footer = () => {
                   href="#"
                 >
                   {" "}
-                  Meet the Team{" "}
+                  Project story{" "}
                 </a>
               </li>
 
@@ -53,7 +57,7 @@ const Footer = () => {
                   className="text-gray-700 transition hover:text-gray-700/75"
                   href="#"
                 >
-                  Employee Handbook
+                  Contact Us
                 </a>
               </li>
 
@@ -70,7 +74,7 @@ const Footer = () => {
           </div>
 
           <div className="text-center sm:text-left">
-            <p className="text-lg font-medium text-gray-900">Our Services</p>
+            <p className="text-lg font-medium text-gray-900">Learn More</p>
 
             <ul className="mt-8 space-y-4 text-sm">
               <li>
@@ -78,7 +82,7 @@ const Footer = () => {
                   className="text-gray-700 transition hover:text-gray-700/75"
                   href="#"
                 >
-                  Web Development
+                  Privacy Policy
                 </a>
               </li>
 
@@ -88,7 +92,7 @@ const Footer = () => {
                   href="#"
                 >
                   {" "}
-                  Web Design{" "}
+                  Security{" "}
                 </a>
               </li>
 
@@ -98,24 +102,16 @@ const Footer = () => {
                   href="#"
                 >
                   {" "}
-                  Marketing{" "}
-                </a>
-              </li>
-
-              <li>
-                <a
-                  className="text-gray-700 transition hover:text-gray-700/75"
-                  href="#"
-                >
-                  {" "}
-                  Google Ads{" "}
+                  Terms{" "}
                 </a>
               </li>
             </ul>
           </div>
 
           <div className="text-center sm:text-left">
-            <p className="text-lg font-medium text-gray-900">Resources</p>
+            <p className="text-lg font-medium text-gray-900">
+              Join ShutterStory
+            </p>
 
             <ul className="mt-8 space-y-4 text-sm">
               <li>
@@ -124,7 +120,7 @@ const Footer = () => {
                   href="#"
                 >
                   {" "}
-                  Online Guides{" "}
+                  Register -Photographer{" "}
                 </a>
               </li>
 
@@ -133,36 +129,7 @@ const Footer = () => {
                   className="text-gray-700 transition hover:text-gray-700/75"
                   href="#"
                 >
-                  Conference Notes
-                </a>
-              </li>
-
-              <li>
-                <a
-                  className="text-gray-700 transition hover:text-gray-700/75"
-                  href="#"
-                >
-                  {" "}
-                  Forum{" "}
-                </a>
-              </li>
-
-              <li>
-                <a
-                  className="text-gray-700 transition hover:text-gray-700/75"
-                  href="#"
-                >
-                  {" "}
-                  Downloads{" "}
-                </a>
-              </li>
-
-              <li>
-                <a
-                  className="text-gray-700 transition hover:text-gray-700/75"
-                  href="#"
-                >
-                  Upcoming Events
+                  ShutterStory for photographers
                 </a>
               </li>
             </ul>
@@ -175,52 +142,53 @@ const Footer = () => {
               <li>
                 <a
                   className="text-gray-700 transition hover:text-gray-700/75"
-                  href="#"
+                  href="https://github.com/theshutterstory"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   {" "}
-                  FAQs{" "}
+                  Codebase{" "}
                 </a>
               </li>
 
               <li>
                 <a
                   className="text-gray-700 transition hover:text-gray-700/75"
-                  href="#"
+                  href="https://medium.com/@theshreeraj"
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   {" "}
-                  Support{" "}
+                  Blog{" "}
                 </a>
               </li>
 
               <li>
                 <a
-                  className="group flex justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
-                  href="#"
+                  className="text-gray-700 transition hover:text-gray-700/75"
+                  href="https://www.youtube.com/@SaaSAdventureByShree"
+                  target="_blank"
+                  rel="noreferrer"
                 >
-                  <span className="text-gray-700 transition group-hover:text-gray-700/75">
-                    {" "}
-                    Live Chat{" "}
-                  </span>
-
-                  <span className="relative flex h-2 w-2">
-                    <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-teal-400 opacity-75"></span>
-                    <span className="relative inline-flex size-2 rounded-full bg-teal-500"></span>
-                  </span>
+                  {" "}
+                  Youtube{" "}
                 </a>
               </li>
             </ul>
           </div>
 
           <div className="text-center sm:text-left md:col-span-4 lg:col-span-2">
-            <p className="text-lg font-medium text-gray-900">Stay in Touch</p>
+            <p className="text-lg font-medium text-gray-900">
+              Contribute to the project.
+            </p>
 
             <div className="mx-auto mt-8 max-w-md sm:ms-0">
               <p className="text-center leading-relaxed text-gray-500 ltr:sm:text-left rtl:sm:text-right">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum
-                id, iure consectetur et error hic!
+                Theshutterstory is an open source project and we are always
+                looking for contributors who can help us make it better.
               </p>
 
-              <form className="mt-4">
+              {/* <form className="mt-4">
                 <div className="flex flex-col gap-4 sm:flex-row lg:flex-col lg:items-start">
                   <label htmlFor="email" className="sr-only">
                     Email
@@ -239,7 +207,7 @@ const Footer = () => {
                     Subscribe
                   </button>
                 </div>
-              </form>
+              </form> */}
             </div>
           </div>
         </div>

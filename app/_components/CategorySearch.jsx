@@ -36,18 +36,18 @@ function CategorySearch() {
                 index < 6 && (
                   <Link
                     href={"/search/" + item.mainCategory}
-                    // href="#"
                     key={index}
                     className="flex 
           flex-col text-center items-center
-          p-5 bg-gray-200 m-2 rounded-lg cursor-pointer
+           bg-gray-200 m-2 rounded-lg cursor-pointer
           gap-2 hover:scale-110 transition-all ease-in-out"
                   >
                     <Image
+                      className="rounded-sm"
+                      width={140}
+                      height={160}
                       src={item.categoryImg}
                       alt="icon"
-                      width={40}
-                      height={40}
                     />
                     <label className="text-black text-sm">
                       {item.mainCategory}
