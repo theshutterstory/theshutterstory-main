@@ -1,32 +1,32 @@
 [
     {
         "id": 1,
-        "categoryImg" : "/images/cat1.jpeg",
+        "categoryImg" : "/images/cat2.png",
         "mainCategory" :"Weddding"
     },
       {
         "id": 2,
-        "categoryImg" : "/images/cat2.jpeg",
+        "categoryImg" : "/images/cat1.png",
         "mainCategory" :"Product"
     },
       {
         "id": 3,
-        "categoryImg" :  "/images/cat3.jpeg",
+        "categoryImg" :  "/images/cat3.png",
         "mainCategory" :"Architectural"
     },
       {
         "id": 4,
-        "categoryImg" :   "/images/cat4.jpeg",
+        "categoryImg" :   "/images/cat4.png",
         "mainCategory" :"Event"
     },
       {
         "id": 5,
-        "categoryImg" :  "/images/cat5.jpeg",
+        "categoryImg" :  "/images/cat5.png",
         "mainCategory" :"Aerial"
     },
       {
         "id": 5,
-        "categoryImg" :   "/images/cat6.jpeg",
+        "categoryImg" :   "/images/cat6.png",
         "mainCategory" :"Street"
     }
 ]

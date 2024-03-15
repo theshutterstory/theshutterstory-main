@@ -34,25 +34,27 @@ function CategorySearch() {
           ? categoryList.map(
               (item, index) =>
                 index < 6 && (
-                  <Link
-                    href={"/search/" + item.mainCategory}
-                    key={index}
-                    className="flex 
+                  <div className="border-[0.5px] rounded-sm p-0.5 mx-2 cursor-pointer hover:shadow-2xl hover:scale-110 transition-all ease-in-out">
+                    <Link
+                      href={"/search/" + item.mainCategory}
+                      key={index}
+                      className="flex 
           flex-col text-center items-center
-           bg-gray-200 m-2 rounded-lg cursor-pointer
-          gap-2 hover:scale-110 transition-all ease-in-out"
-                  >
-                    <Image
-                      className="rounded-sm"
-                      width={140}
-                      height={160}
-                      src={item.categoryImg}
-                      alt="icon"
-                    />
-                    <label className="text-black text-sm">
-                      {item.mainCategory}
-                    </label>
-                  </Link>
+           m-2 rounded-lg cursor-pointer
+          gap-2"
+                    >
+                      <Image
+                        className="rounded-sm"
+                        width={140}
+                        height={160}
+                        src={item.categoryImg}
+                        alt="icon"
+                      />
+                      <label className="text-black text-sm">
+                        {item.mainCategory}
+                      </label>
+                    </Link>
+                  </div>
                 )
             )
           : [1, 2, 3, 4, 5, 6].map((item, index) => (

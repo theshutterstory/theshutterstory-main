@@ -4,7 +4,7 @@ import CategorySearch from "./_components/CategorySearch";
 import PhotographerList from "./_components/PhotographerList";
 import Footer from "./_components/Footer";
 import FeaturingApp from "./_components/FeaturingApp";
-import RegisterPhotographer from "./_components/RegisterPhotographer";
+// import RegisterPhotographer from "./_components/RegisterPhotographer";
 
 export default function Home() {
   return (
