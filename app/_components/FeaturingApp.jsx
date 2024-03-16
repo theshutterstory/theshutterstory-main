@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import { Button } from "@/components/ui/button";
 
 const FeaturingApp = () => {
   return (
@@ -30,12 +31,7 @@ const FeaturingApp = () => {
                 repellat.
               </p>
 
-              <a
-                href="#"
-                className="mt-8 inline-block rounded bg-indigo-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-indigo-700 focus:outline-none focus:ring focus:ring-yellow-400"
-              >
-                Get Started Today
-              </a>
+              <Button>Checkout</Button>
             </div>
           </div>
         </div>
