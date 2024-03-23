@@ -4,6 +4,7 @@ import CategorySearch from "./_components/CategorySearch";
 import PhotographerList from "./_components/PhotographerList";
 import Footer from "./_components/Footer";
 import FeaturingApp from "./_components/FeaturingApp";
+import Joinus from "./_components/Joinus";
 // import RegisterPhotographer from "./_components/RegisterPhotographer";
 
 export default function Home() {
@@ -18,6 +19,7 @@ export default function Home() {
       <FeaturingApp />
       {/* <RegisterPhotographer /> */}
       {/* Footer */}
+      <Joinus />
       <Footer />
     </div>
   );

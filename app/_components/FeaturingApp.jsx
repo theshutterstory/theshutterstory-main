@@ -1,41 +1,25 @@
 import React from "react";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
+import appMcp from "../../public/app mcp.png";
 
 const FeaturingApp = () => {
   return (
     <div>
-      <section>
-        <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
-          <div className="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-16">
-            <div className="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:order-last lg:h-full">
-              <Image
-                alt=""
-                // src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-                src="/app mcp.png"
-                width={300}
-                height={200}
-                className="absolute inset-0 h-full w-full object-fit"
-              />
-            </div>
-
-            <div className="lg:py-24">
-              <h2 className="text-3xl font-bold sm:text-4xl">
-                Grow your audience
-              </h2>
-
-              <p className="mt-4 text-gray-600">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut
-                qui hic atque tenetur quis eius quos ea neque sunt, accusantium
-                soluta minus veniam tempora deserunt? Molestiae eius quidem quam
-                repellat.
-              </p>
-
-              <Button>Checkout</Button>
-            </div>
+      <div className="md:flex-row flex-col items-center flex justify-center pb-10">
+        <div className="p-5 justify-center">
+          <div className="bg-gradient-to-r from-black to-gray-800 bg-clip-text text-transparent text-4xl md:text-6xl font-bold pb-10">
+            We'r launching our app soon...
           </div>
+          <div className="text-2xl mb-8">
+            Stay tuned, for more exciting updates.
+          </div>
+          <button className="bg-black text-white p-4 justify-center flex md:w-1/3 rounded-lg hover:bg-slate-500">
+            Join Us
+          </button>
         </div>
-      </section>
+        <Image src={appMcp} className="rounded-sm md:w-2/5 p-4 md:p md:p-0" />
+      </div>
     </div>
   );
 };

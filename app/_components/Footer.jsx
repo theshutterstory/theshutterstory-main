@@ -4,31 +4,8 @@ import Image from "next/image";
 const Footer = () => {
   return (
     <div className="bg-white">
-      <div className="mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8">
-        <div className="lg:flex lg:items-center lg:justify-between">
-          <div className="flex justify-center text-teal-600 sm:justify-start">
-            <Image
-              src="/theshutterstory-logo.svg"
-              alt="logo"
-              width={70}
-              height={70}
-            />
-            <div className="pt-6 text-lg font-medium text-gray-900">
-              theshutterstory
-            </div>
-          </div>
-
-          <p className="mt-4 max-w-md text-center leading-relaxed text-gray-500 sm:text-left lg:mt-0">
-            ShutterStory.in is a dynamic online hub designed exclusively for
-            photographers to exhibit their portfolios, share their creative
-            journey, and connect with prospective clients. Whether you're a
-            seasoned professional or an aspiring enthusiast, ShutterStory.in
-            offers a vibrant space to showcase your talent and expand your
-            professional network.
-          </p>
-        </div>
-
-        <div className="mt-16 grid grid-cols-1 gap-8 border-t border-gray-100 pt-16 md:grid-cols-4 lg:grid-cols-6">
+      <div className="mx-auto max-w-screen-xl px-4 pb-6 sm:px-6 ">
+        <div className="mt-16 grid grid-cols-1 gap-8 border-t border-gray-100 md:grid-cols-4 lg:grid-cols-6">
           <div className="text-center sm:text-left">
             <p className="text-lg font-medium text-gray-900">About Us</p>
 
@@ -187,27 +164,6 @@ const Footer = () => {
                 Theshutterstory is an open source project and we are always
                 looking for contributors who can help us make it better.
               </p>
-
-              {/* <form className="mt-4">
-                <div className="flex flex-col gap-4 sm:flex-row lg:flex-col lg:items-start">
-                  <label htmlFor="email" className="sr-only">
-                    Email
-                  </label>
-
-                  <input
-                    className="w-full rounded-full border-gray-200 px-6 py-3 shadow-sm"
-                    type="email"
-                    placeholder="Enter your email"
-                  />
-
-                  <button
-                    className="block rounded-full bg-indigo-500 px-8 py-3 font-medium text-white transition hover:bg-indigo-600"
-                    type="submit"
-                  >
-                    Subscribe
-                  </button>
-                </div>
-              </form> */}
             </div>
           </div>
         </div>
