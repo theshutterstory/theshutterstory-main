@@ -11,12 +11,12 @@ function CategorySearch() {
   return (
     <div className="mb-10 items-center px-5 flex flex-col gap-2">
       <h2
-        className="font-bold
-        text-4xl tracking-wide"
+        className="font-bold text-sm
+       md:text-4xl tracking-wide"
       >
         Search Photographers
       </h2>
-      <h2 className="text-gray-500 text-xl">
+      <h2 className="text-gray-500 text-sm text-center md:text-xl">
         Search Photographers and Book Appointment in one click
       </h2>
 
@@ -34,7 +34,7 @@ function CategorySearch() {
           ? categoryList.map(
               (item, index) =>
                 index < 6 && (
-                  <div className="border-[0.5px] rounded-sm p-0.5 mx-2 cursor-pointer hover:shadow-2xl hover:scale-110 transition-all ease-in-out">
+                  <div className="border-[0.5px] rounded-sm p-0.5 mx-2 mt-3 cursor-pointer hover:shadow-2xl hover:scale-110 transition-all ease-in-out">
                     <Link
                       href={"/search/" + item.mainCategory}
                       key={index}
